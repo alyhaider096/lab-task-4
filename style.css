@@ -1,0 +1,42 @@
+
+body {
+
+    background-color: #f5f7fa;
+
+    font-family: Arial, sans-serif;
+
+}
+
+
+.student-card {
+
+    height: 100%;
+
+    border: none;
+
+    border-radius: 12px;
+
+    box-shadow:
+        0 4px 15px rgba(0, 0, 0, 0.1);
+
+}
+
+
+/* Student name */
+
+.student-card h3 {
+
+    font-size: 22px;
+
+    margin-bottom: 20px;
+
+}
+
+
+/* Paragraph spacing */
+
+.student-card p {
+
+    margin-bottom: 8px;
+
+}
